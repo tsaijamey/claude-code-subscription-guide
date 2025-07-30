@@ -26,8 +26,14 @@ Claude Code 采用双重速率限制系统：
 - `max-subscription` - Max plan details
 - `v1.0.0` - Initial release
 
+## Contributing / 贡献
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+欢迎贡献！请随时提交 Pull Request。
+
 ## License / 许可证
 
-This documentation is provided for informational purposes. All information is based on publicly available sources.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-本文档仅供参考。所有信息基于公开可用的资源。
+本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
